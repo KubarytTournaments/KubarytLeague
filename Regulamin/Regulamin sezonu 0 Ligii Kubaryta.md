@@ -118,12 +118,12 @@
 - Zwycięzca licytacji o miasto wybiera jedno miasto z wylosowanych przez gospodarza, zwycięzca licytacji o kolor wybiera jeden z kolorów (niebieski lub czerwony).
 - Gracze wybierają zamki dla graczy komputerowych zgodnie z systemem opisanym w punkcie 4.1.2
 
-## 6. Restarty
+## 5. Restarty
 
 
-6.1 Pierwszą decyzję o restarcie podejmuje gracz czerwony, a następnie gracz niebieski. (Jeśli nastąpi sytuacja, kiedy gracz niebieski odda turę z chęcią restartu, a następnie gracz czerwony odda turę i nastąpi kolejny dzień, gracz niebieski ma obowiązek podania decyzji o restarcie w czasie 5 sekund od zakończenia tury. Po tym czasie gracz niebieski jest zobowiązany do grania mapy).
+5.1 Pierwszą decyzję o restarcie podejmuje gracz czerwony, a następnie gracz niebieski. (Jeśli nastąpi sytuacja, kiedy gracz niebieski odda turę z chęcią restartu, a następnie gracz czerwony odda turę i nastąpi kolejny dzień, gracz niebieski ma obowiązek podania decyzji o restarcie w czasie 5 sekund od zakończenia tury. Po tym czasie gracz niebieski jest zobowiązany do grania mapy).
 
-6.2 Graczom przysługują tzw. restarty techniczne, które dostępne są jeżeli:
+5.2 Graczom przysługują tzw. restarty techniczne, które dostępne są jeżeli:
 
 - Mapa jest zbugowana, np. brakuje jakiegoś portalu*
 - Na drodze znajduje się strażnik, który blokuje całe przejście, a pokonanie go będzie skutkowało utratą co najmniej 70% wojska.
@@ -131,17 +131,17 @@
 
 **Jeżeli strażnik obiektu jest źle ustawiony (da się go obejść i wykorzystać obiekt) nie należy się restart techniczny, a ze strażnikiem należy walczyć.*
 
-6.3 Restarty techniczne można wykorzystać od 111 do 114 włącznie. Jeżeli gracze nie mogą dojść do porozumienia co do restartu technicznego, decyzję należy skonsultować z sędzią.
+5.3 Restarty techniczne można wykorzystać od 111 do 114 włącznie. Jeżeli gracze nie mogą dojść do porozumienia co do restartu technicznego, decyzję należy skonsultować z sędzią.
 
-6.4 Restarty wczesnego spotkania. Jeśli nastąpi interakcja między graczami w zbyt wczesnej turze, każdy z graczy ma prawo zażądać technicznego restartu. Ostatni dzień kiedy może to nastąpić to 116.
+5.4 Restarty wczesnego spotkania. Jeśli nastąpi interakcja między graczami w zbyt wczesnej turze, każdy z graczy ma prawo zażądać technicznego restartu. Ostatni dzień kiedy może to nastąpić to 116.
 Interakcja między graczami jest zdefiniowana jako jakakolwiek walka między graczami lub przejęcie obiektu należącego do innego gracza (puste kopalnie, miasta, etc.). 
 Warto zaznaczyć że zerwanie tur symultanicznych nie oznacza że interakcja miała miejsce. Jeśli po zakończeniu tury niebieskiego nie doszło do interakcji, nie ma podstaw do stosowania tej reguły.
 
-## 7. Zasady fair play
+## 6. Zasady fair play
 
-7.1 Zakaz wykorzystywania crashów do zyskania przewagi. Po wczytaniu mapy z powodu błędu gry należy powtórzyć swoje ruchy na mapie przygody oraz w walkach w danej turze w której nastąpił błąd. Jeżeli sędzia uzna że nie były powtarzane ruchy może zarządzić powtórne wczytanie mapy. Jeżeli gracz umyślnie będzie zmieniał swoje ruchy by osiągnąć korzyści organizator może przyznać walkower jego przeciwnikowi. Jeśli gracz po wczytaniu gry będzie miał nadmiar czasu, powinien ten nadmiar spędzić czekając na ekranie miasta lub bohatera - nie na analizowaniu rozgrywki lub graniu. W przypadku braku timera działania te mogą dać niezasłużoną przewagę.
+6.1 Zakaz wykorzystywania crashów do zyskania przewagi. Po wczytaniu mapy z powodu błędu gry należy powtórzyć swoje ruchy na mapie przygody oraz w walkach w danej turze w której nastąpił błąd. Jeżeli sędzia uzna że nie były powtarzane ruchy może zarządzić powtórne wczytanie mapy. Jeżeli gracz umyślnie będzie zmieniał swoje ruchy by osiągnąć korzyści organizator może przyznać walkower jego przeciwnikowi. Jeśli gracz po wczytaniu gry będzie miał nadmiar czasu, powinien ten nadmiar spędzić czekając na ekranie miasta lub bohatera - nie na analizowaniu rozgrywki lub graniu. W przypadku braku timera działania te mogą dać niezasłużoną przewagę.
 
-7.2 Zewnętrzna pomoc. Istnieje wiele sposobów na zdobycie dodatkowych informacji użytecznych w trwającej grze. Poniżej przedstawiamy listę wraz z tym czy dany sposób jest dozwolony:
+6.2 Zewnętrzna pomoc. Istnieje wiele sposobów na zdobycie dodatkowych informacji użytecznych w trwającej grze. Poniżej przedstawiamy listę wraz z tym czy dany sposób jest dozwolony:
 
 - Porady (osoba trzecia dostarcza graczowi informacje, które można wydedukować oglądając tylko jego stronę rozgrywki) przez tekst: Dozwolone, ale jeżeli podpowiedź posiada znaczący wpływ na rozgrywkę lub sprawiających, że Gracz zmieni swój plan na rozgrywkę, np. lista kroków, wskazanie nie zauważonego wcześniej przez gracza obiektu lub przypomnienie o założeniu artefaktu przed walką, Streamerzy korzystający z tego typu porad zostaną ukarani walkowerem lub dyskwalifikacją, każdy tego typu przypadek należy zgłosić do Komitetu; Streamerzy powinni usuwać takie podpowiedzi, najlepiej za pośrednictwem moderacji.
 - Porady przez telefon, teamspeak, skype, etc. rozmawiając na żywo: Zakazane
@@ -156,11 +156,11 @@ Warto zaznaczyć że zerwanie tur symultanicznych nie oznacza że interakcja mia
 - Poradniki wideo: Dozwolone
 - Własne notatki o grze: Dozwolone
 
-7.3 W turnieju obowiązują standardowe reguły gier Hota lobby online. Link do nich można znaleźć tutaj(https://h3hota.com/en/rules). Jeśli zasada regulaminu Hota stoi w sprzeczności z zasadą tego regulaminu, regulamin turniejowy ma pierwszeństwo.
+6.3 W turnieju obowiązują standardowe reguły gier Hota lobby online. Link do nich można znaleźć tutaj(https://h3hota.com/en/rules). Jeśli zasada regulaminu Hota stoi w sprzeczności z zasadą tego regulaminu, regulamin turniejowy ma pierwszeństwo.
 
-## 8. Kary
+## 7. Kary
 
-8.1 Komitet ma do dyspozycji kilka możliwości w jakie możę karać Graczy za nieprzestrzeganie Regulaminu oraz w wyjątkowych, nie wymienionych przez Regulamin, sytuacjach. Poziomy kar zdefiniowane są w następujący sposób:
+7.1 Komitet ma do dyspozycji kilka możliwości w jakie możę karać Graczy za nieprzestrzeganie Regulaminu oraz w wyjątkowych, nie wymienionych przez Regulamin, sytuacjach. Poziomy kar zdefiniowane są w następujący sposób:
 
 - Ostrzeżenie - otrzymywane za drobne przewinienia. Pierwsze ostrzeżenia nie niesie ze sobą dodatkowych konsekwencji, ale każde następne już tak:
  * Drugie ostrzeżenie - walkower na Mecz
@@ -169,11 +169,11 @@ Warto zaznaczyć że zerwanie tur symultanicznych nie oznacza że interakcja mia
 - Dyskwalifikacja - otrzymywana za duże przewinienia, wiążę się z otrzymaniem ostrzeżenia na następny sezon Ligii, w którym penalizowany Gracz weźmie udział
 - Ban - otrzymywany za poważne przewinienia, działa podobnie jak dyskwalifikacja, ale nie pozwala graczowi nie udział w turnieju na czas określony, lub nieokreślony.
 
-8.2 Informacje o otrzymaniu kary wraz z ich uzasadnieniem będą publikowane na Discordzie
+7.2 Informacje o otrzymaniu kary wraz z ich uzasadnieniem będą publikowane na Discordzie
 
-8.3 Gracze mogą odwołać się od decyzji Komitetu najpóźniej dwie kolejki po jej wydaniu. (w przypadku banów możliwe jest późniejsze odwołanie, ale nie będzie skutkowało ono cofnięciem dyskwalifikacji).
+7.3 Gracze mogą odwołać się od decyzji Komitetu najpóźniej dwie kolejki po jej wydaniu. (w przypadku banów możliwe jest późniejsze odwołanie, ale nie będzie skutkowało ono cofnięciem dyskwalifikacji).
 
-## 9. Zakończenie gry
+## 8. Zakończenie gry
 
 - Po rozegraniu gry, Gracz, który przegrał Mecz wpisuje “gg” na czacie gry (oraz w przypadku grania w trybie rankingowym potwierdza przyznanie się do porażki), jest to jednoznaczne z przyznaniem się do porażki oraz dowodem w trakcie pisania sprawozdania z meczu. Decyzji o poddaniu gry nie można odwołać. 
 - Raport ze spotkania należy składać na stronie www.h3.gg. Musi on zostać potwierdzony przez przeciwnika albo sędziego. 
