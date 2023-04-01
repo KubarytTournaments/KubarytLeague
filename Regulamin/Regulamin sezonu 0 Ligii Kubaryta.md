@@ -48,7 +48,7 @@
 
 2.4 Komitet ma niewyłączne i niezbywalne prawo do retransmisji, nagrywania i udostępniania wybranych meczów rozgrywanych w Lidze w celu udostępniania komentarza i archiwizacji. Komitet może dzielić się tym prawem z osobami trzecimi.
 
-## 3. Format Ligii i jej Terminarz
+## 3. Format Ligii i Terminarz
 
 3.1 Liga składać będzie się z dwóch faz: Zapisów i Fazy zasadniczej
 
