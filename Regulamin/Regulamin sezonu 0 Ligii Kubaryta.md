@@ -19,6 +19,8 @@
 
 0.6 Komitet może wydawać Orzeczenia, które posiadają moc większa od Regulaminu. Orzeczenia będą posiadały przydzielone numery np. `Orzeczenie #0000l`, gdzie pierwsza cyfra to numer sezonu, a trzy następne określają, które jest to Orzeczenie z kolei. Im wyższy numer Orzeczenia tym większa posiada moc (np. jeżeli Orzeczenie #0001l będzie sprzeczne z Orzeczeniem #0006l, to Orzeczenie #0006l jest obowiązujące.) Orzeczenia będą publikowane na Discordzie.
 
+0.7 Komitet zastrzega sobie prawo do zmiany Regulaminu w każdej chwili, bez podania przyczyny.
+
 ## 1. Definicje
 
 - Główny Sędzia - szef Komitetu, Jakub "Kubaryt" Starzyk
@@ -43,6 +45,8 @@
  - Gracz znany jest z oszukiwania podczas rozgrywek
  - Gracz znany jest z wysokiej toksyczności
  - Gracz znany jest z braku szacunku do zasad fair play
+
+2.4 Komitet ma niewyłączne i niezbywalne prawo do retransmisji, nagrywania i udostępniania wybranych meczów rozgrywanych w Lidze w celu udostępniania komentarza i archiwizacji. Komitet może dzielić się tym prawem z osobami trzecimi.
 
 ## 3. Format Ligii i jej Terminarz
 
