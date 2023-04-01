@@ -2,22 +2,22 @@
 
 ## 0. Wstęp
 
-1.1 Liga Kubaryta (dalej zwana Ligą) jest turniejem rozgrywanym w grze Heroes of Might of Magic III z dodatkiem Horn of the Abyss (dalej zwana Grą). Celem Ligii jest promocja szablonu Kubaryt. O zasadach Ligii stanowi Regulamin sezonu 0 Ligii Kubaryta (zwany dalej Regulaminem)
+0.1 Liga Kubaryta (dalej zwana Ligą) jest turniejem rozgrywanym w grze Heroes of Might of Magic III z dodatkiem Horn of the Abyss (dalej zwana Grą). Celem Ligii jest promocja szablonu Kubaryt. O zasadach Ligii stanowi Regulamin sezonu 0 Ligii Kubaryta (zwany dalej Regulaminem)
 
-1.2 Liga organizowana jest przez Komitet Sędziowski Ligii Kubaryta (dalej zwany Komitetem).
+0.2 Liga organizowana jest przez Komitet Sędziowski Ligii Kubaryta (dalej zwany Komitetem).
 
-1.3 W skład Komitetu wchodzą:
+0.3 W skład Komitetu wchodzą:
 
  - Kubaryt#6155 - Główny Sędzia
  - Malkiz#5589 - Sędzia
  - AksOlek#1969 - Sędzia
  - Polski3Y|Official#6496 - Moderator Serwera Discord
 
-1.4 Polskojęzyczna wersja Regulaminu jest obowiązująca. Jeżeli w angielskojęzyczna wersja Regulaminu jest sprzeczna z polskojęzyczną, to należy postępować wedle polskojęzycznej wersji Regulaminu.
+0.4 Polskojęzyczna wersja Regulaminu jest obowiązująca. Jeżeli w angielskojęzyczna wersja Regulaminu jest sprzeczna z polskojęzyczną, to należy postępować wedle polskojęzycznej wersji Regulaminu.
 
-1.5 W sytuacjach nieujętych Regulaminem decyzja Głównego Sędziego jest wiążąca.
+0.5 W sytuacjach nieujętych Regulaminem decyzja Głównego Sędziego jest wiążąca.
 
-1.6 Komitet może wydawać Orzeczenia, które posiadają moc większa od Regulaminu. Orzeczenia będą posiadały przydzielone numery np. `Orzeczenie #0000l`, gdzie pierwsza cyfra to numer sezonu, a trzy następne określają, które jest to Orzeczenie z kolei. Im wyższy numer Orzeczenia tym większa posiada moc (np. jeżeli Orzeczenie #0001l będzie sprzeczne z Orzeczeniem #0006l, to Orzeczenie #0006l jest obowiązujące.) Orzeczenia będą publikowane na Discordzie.
+0.6 Komitet może wydawać Orzeczenia, które posiadają moc większa od Regulaminu. Orzeczenia będą posiadały przydzielone numery np. `Orzeczenie #0000l`, gdzie pierwsza cyfra to numer sezonu, a trzy następne określają, które jest to Orzeczenie z kolei. Im wyższy numer Orzeczenia tym większa posiada moc (np. jeżeli Orzeczenie #0001l będzie sprzeczne z Orzeczeniem #0006l, to Orzeczenie #0006l jest obowiązujące.) Orzeczenia będą publikowane na Discordzie.
 
 ## 1. Definicje
 
