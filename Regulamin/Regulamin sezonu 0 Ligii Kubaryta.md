@@ -1,4 +1,4 @@
-# Regulamin sezonu 0 0 Ligii Kubaryta
+# Regulamin sezonu 0 Ligii Kubaryta
 
 ## 0. Wstęp
 
