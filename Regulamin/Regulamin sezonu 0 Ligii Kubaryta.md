@@ -10,6 +10,7 @@
 
  - Kubaryt#6155 - Główny Sędzia
  - Malkiz#5589 - Sędzia
+ - AksOlek#1969 - Sędzia
  - Polski3Y|Official#6496 - Moderator Serwera Discord
 
 1.4 Polskojęzyczna wersja Regulaminu jest obowiązująca. Jeżeli w angielskojęzyczna wersja Regulaminu jest sprzeczna z polskojęzyczną, to należy postępować wedle polskojęzycznej wersji Regulaminu.
@@ -64,7 +65,7 @@
 
 ### 4.1 Szablon
 
-4.1.1 Szablonem map losowych obowiązującym w rozgrywkach Ligii jest Kubaryt1.2 [Link do pobrania](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/Kubaryt)
+4.1.1 Szablonem map losowych obowiązującym w rozgrywkach Ligii jest Kubaryt1.2 [Link do pobrania](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/Kubaryt).
 
 4.1.2 Ustawienia szablonu:
 > Szablon: Kubaryt
