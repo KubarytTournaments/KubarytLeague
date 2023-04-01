@@ -98,7 +98,7 @@
 > 
 > Wystartuj czasomierz po wciśnięciu OK: Tak
 > 
-> Zegar: Szachowy, 21:00+8:00+1:30 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie)
+> Zegar: Szachowy, 18:00+6:00+1:30 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie)
 > 
 > Tury jednoczesne: Tak, do 125 (po wyraźnej zgodzie obu graczy długość tur jednoczesnych może ulec zmianie).
 > 
