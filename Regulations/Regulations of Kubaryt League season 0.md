@@ -17,7 +17,7 @@
 
 0.5 In cases non included in regulations the Main Judge has deciding vote.
 
-0.6 Committee can make Rulings, that are more powerful than Regulations. Rulings will have assigned numbers fe. `Ruling #0000l`, where first cipher means numbers of season, next three define which in turn is the Ruling. The higher number of Ruling the more power it has (eg. if Ruling#0001l will be in contradiction with Ruling#0006l, then Ruling#0006l takes precedence). Rulings will be published on Discord.
+0.6 Committee can make Rulings, that are more powerful than Regulations. Rulings will have assigned numbers fe. `Ruling #0000l`, where first cipher means numbers of season, next three define which in turn is the Ruling. The higher number of Ruling the more power it has (eg. if Ruling#0001l will be in contradiction with Ruling#0006l, then Ruling#0006l takes precedence). Rulings apply only to the season marked in first cipher of their number. Rulings will be published on Discord.
 
 0.7 Committee claims rights to change the regulations anytime, without giving a reason.
 
