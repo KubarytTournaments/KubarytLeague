@@ -17,7 +17,7 @@
 
 0.5 W sytuacjach nieujętych Regulaminem decyzja Głównego Sędziego jest wiążąca.
 
-0.6 Komitet może wydawać Orzeczenia, które posiadają moc większa od Regulaminu. Orzeczenia będą posiadały przydzielone numery np. `Orzeczenie #0000l`, gdzie pierwsza cyfra to numer sezonu, a trzy następne określają, które jest to Orzeczenie z kolei. Im wyższy numer Orzeczenia tym większa posiada moc (np. jeżeli Orzeczenie #0001l będzie sprzeczne z Orzeczeniem #0006l, to Orzeczenie #0006l jest obowiązujące.) Orzeczenia będą publikowane na Discordzie.
+0.6 Komitet może wydawać Orzeczenia, które posiadają moc większa od Regulaminu. Orzeczenia będą posiadały przydzielone numery np. `Orzeczenie #0000l`, gdzie pierwsza cyfra to numer sezonu, a trzy następne określają, które jest to Orzeczenie z kolei. Im wyższy numer Orzeczenia tym większa posiada moc (np. jeżeli Orzeczenie #0001l będzie sprzeczne z Orzeczeniem #0006l, to Orzeczenie #0006l jest obowiązujące.). Orzeczenia obowiązują tylko w sezonie oznaczonym przez pierwszą cyfrę ich numeru. Orzeczenia będą publikowane na Discordzie.
 
 0.7 Komitet zastrzega sobie prawo do zmiany Regulaminu w każdej chwili, bez podania przyczyny.
 
