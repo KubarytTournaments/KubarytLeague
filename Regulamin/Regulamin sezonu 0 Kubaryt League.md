@@ -1,10 +1,10 @@
-# Regulamin sezonu 0 Ligii Kubaryta
+# Regulamin sezonu 0 Kubaryt League
 
 ## 0. Wstęp
 
-0.1 Liga Kubaryta (dalej zwana Ligą) jest turniejem rozgrywanym w grze Heroes of Might and Magic III z dodatkiem Horn of the Abyss (dalej zwana Grą). Celem Ligii jest promocja szablonu Kubaryt. O zasadach Ligii stanowi Regulamin sezonu 0 Ligii Kubaryta (zwany dalej Regulaminem)
+0.1 Kubaryt League/*Liga Kubaryta* (dalej zwana Ligą) jest turniejem rozgrywanym w grze Heroes of Might and Magic III z dodatkiem Horn of the Abyss (dalej zwana Grą). Celem Ligii jest promocja szablonu Kubaryt. O zasadach Ligii stanowi Regulamin sezonu 0 Kubaryt League (zwany dalej Regulaminem)
 
-0.2 Liga organizowana jest przez Komitet Sędziowski Ligii Kubaryta (dalej zwany Komitetem).
+0.2 Liga organizowana jest przez Komitet Sędziowski Kubaryt League (dalej zwany Komitetem).
 
 0.3 W skład Komitetu wchodzą:
 
