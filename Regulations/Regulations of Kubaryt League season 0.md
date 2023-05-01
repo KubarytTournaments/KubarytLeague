@@ -148,7 +148,7 @@
 
 6.3 Standard hota online gameplay rules. Link to them is here. If a rule in the tournament rules conflicts with the one in standard hota rules, the tournament rule takes priority.
 
-7.1 Judge have some means of punishing players for not adhering to the rules and in unusual situations. Penalty levels:
+7.1 Committee have some means of punishing players for not adhering to the rules and in unusual situations. Penalty levels:
 
 - Warning - received for trivial infractions. First warning has no consequences, but every next warning causes additional penalties:
   - Second warning - walkover for game
@@ -157,9 +157,11 @@
 - Disqualification - received for big infractions
 - Ban - received for serious infractions, works like disquailfication, but doesn't allow you to play in the tournament for a definite or indefinite period
 
-7.2 Informations about receiving a penatly with the reason of it will be published on #Rulings-orzeczenia channel on **Discord**
+7.2 Committee in unusual situtations can use other than mentioned in point 7.1 type of penalty.
 
-7.3 Player can appeal the Judges' decision until the end of the current phase. 
+7.3 Informations about receiving a penatly with the reason of it will be published on #Rulings-orzeczenia channel on **Discord**
+
+7.4 Player can appeal the Judges' decision until the end of the current phase. 
 
 ## 8. Game conclusion
 
