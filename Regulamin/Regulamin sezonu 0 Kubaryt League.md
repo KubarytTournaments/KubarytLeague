@@ -174,9 +174,11 @@ Warto zaznaczyć że zerwanie tur symultanicznych nie oznacza że interakcja mia
 - Dyskwalifikacja - otrzymywana za duże przewinienia, wiążę się z otrzymaniem ostrzeżenia na następny sezon Ligii, w którym penalizowany Gracz weźmie udział
 - Ban - otrzymywany za poważne przewinienia, działa podobnie jak dyskwalifikacja, ale nie pozwala graczowi nie udział w turnieju na czas określony, lub nieokreślony.
 
-7.2 Informacje o otrzymaniu kary wraz z ich uzasadnieniem będą publikowane na Discordzie
+7.2 Komitet w wyjątkowych sytuacjach może zastosować karę inną niż wymienione w punkcie 7.1
 
-7.3 Gracze mogą odwołać się od decyzji Komitetu najpóźniej dwie kolejki po jej wydaniu. (w przypadku banów możliwe jest późniejsze odwołanie, ale nie będzie skutkowało ono cofnięciem dyskwalifikacji).
+7.3 Informacje o otrzymaniu kary wraz z ich uzasadnieniem będą publikowane na Discordzie
+
+7.4 Gracze mogą odwołać się od decyzji Komitetu najpóźniej dwie kolejki po jej wydaniu. (w przypadku banów możliwe jest późniejsze odwołanie, ale nie będzie skutkowało ono cofnięciem dyskwalifikacji).
 
 ## 8. Zakończenie gry
 
